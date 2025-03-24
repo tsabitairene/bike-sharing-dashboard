@@ -42,8 +42,3 @@ submission/
 Dashboard telah di-deploy dan dapat diakses melalui link berikut:  
 🔗 **[Bike Sharing Dashboard](https://bike-sharing-dashboard-vj8dann7gfkjtcpeycw8ms.streamlit.app/)**  
 
-## 📩 Kontak
-- **👤 Nama:** Tsabita Irene Adielia  
-- **📧 Email:** tsabitairene@gmail.com  
-- **🏆 ID Dicoding:** tsabitairene  
-
